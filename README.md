@@ -132,7 +132,3 @@ public/              # Static assets
 MIT License
 
 ---
-
-## 🙌 Acknowledgements
-
-Built to help candidates practice interviews in a realistic, low-pressure environment using modern AI and web technologies.
